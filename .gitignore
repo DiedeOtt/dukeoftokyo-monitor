@@ -1,0 +1,4 @@
+state/
+.ntfy_topic
+__pycache__/
+.DS_Store
